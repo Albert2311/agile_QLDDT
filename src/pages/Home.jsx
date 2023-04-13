@@ -1,7 +1,7 @@
 import React ,{useState, useEffect}from 'react'
 import '../styles/Home.css'
 
-import heroImg from '../assets/img/Home-2.png'
+import heroImg from '../assets/img/Home-3.png'
 import Helmet from '../components/Helmet/Helmet';
 import { Container, Grid, Typography } from '@mui/material';
 import { NavLink } from 'react-router-dom';
